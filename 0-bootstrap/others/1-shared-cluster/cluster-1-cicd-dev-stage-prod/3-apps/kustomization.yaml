@@ -1,4 +1,10 @@
 resources:
+#- argocd/dp/cicd.yaml
+#- argocd/dp/dev.yaml
+#- argocd/dp/stage.yaml
+#- argocd/dp/prod.yaml
+
+
 #- argocd/ace/cicd.yaml
 #- argocd/ace/dev.yaml
 #- argocd/ace/stage.yaml
